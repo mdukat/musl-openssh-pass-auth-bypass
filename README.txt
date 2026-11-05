@@ -20,3 +20,13 @@ note: user "ciota" was created with "adduser -S ciota", without setting it's pas
 
 
 lol
+
+
+
+
+
+links:
+ - https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/
+ - www.openssh.com/releasenotes.html
+ - https://sshhole.com/
+
